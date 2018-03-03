@@ -1,0 +1,22 @@
+{
+  "name": "sandwichbot",
+  "version": "1.0.0",
+  "owner-id": "272386620022456321",
+  "moderator": "Moderator",
+  "prefix": "sm!",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "sandwichservais",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "embed-creator": "^1.2.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.20.1",
+    "opusscript": "0.0.6"
+    "request": "2.81.0"
+  }
+}
