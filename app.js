@@ -344,4 +344,4 @@ client.on("message", async message => {
 
 
 
-client.login(config.token);
+client.login(process.env.NDE3Njc3ODAzNDI1NjI4MTg5.DXxZCw.Ay7VTA38Fyg0e7Jva7nwG6BoY8Q);
